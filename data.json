@@ -1,0 +1,47 @@
+{
+    "monday": {
+        "1A": {
+            "4_1_2": "https://meet.google.com/yvj-junu-pyv",
+            "4_3" : "https://meet.google.com/jwf-bugt-yzm"
+        },
+        "1B": "https://meet.google.com/hjo-okyn-jqf",
+        "1C": "https://meet.google.com/irg-jgrd-fnn",
+        "2C": "https://meet.google.com/brz-evat-gjm"
+    },
+    "tuesday": {
+        "1A": {
+            "4_1_2": "https://meet.google.com/jcn-sitp-afe",
+            "4_3" : "https://meet.google.com/nve-eohm-hox"
+        },
+        "1B": "https://meet.google.com/nzp-ksff-pep",
+        "1C": "https://meet.google.com/qdk-ofts-ydw",
+        "2C": "https://meet.google.com/xgv-ywyy-fko"
+    },
+    "wednesday": {
+        "1A": {
+            "4_1_2": "https://meet.google.com/fjh-kect-amc",
+            "4_3" : "https://meet.google.com/fst-vwsp-vxu"
+        },
+        "1B": "https://meet.google.com/gfm-rtve-fnh",
+        "1C": "https://meet.google.com/pgp-kroh-dug",
+        "2C": "https://meet.google.com/epg-ixzk-kpj"
+    },
+    "thursday": {
+        "1A": {
+            "4_1_2": "https://meet.google.com/fya-vndr-qmo",
+            "4_3" : "https://meet.google.com/frr-yxrq-qgq"
+        },
+        "1B": "https://meet.google.com/moj-qgkj-gqc",
+        "1C": "https://meet.google.com/uws-kcsz-efm",
+        "2C": "https://meet.google.com/nra-pcwo-vbz"
+    },
+    "friday": {
+        "1A": {
+            "4_1_2": "https://meet.google.com/tya-epbf-khg",
+            "4_3" : "https://meet.google.com/zxt-hiht-eqd"
+        },
+        "1B": "https://meet.google.com/bov-gedr-nbf",
+        "1C": "https://meet.google.com/kbp-gcty-edj",
+        "2C": "https://meet.google.com/dne-kieb-owv"
+    }
+}
